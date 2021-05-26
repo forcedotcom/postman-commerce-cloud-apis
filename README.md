@@ -21,12 +21,12 @@ A [Postman](https://www.postman.com) collection of 230+ requests for the followi
 
 **⚠️ Disclaimers:**
 - This collection is provided as-is. It's not officially supported by Salesforce or covered by SLAs.
-- API documentation is not provided with the collection. Please refer to the [official documentation](https://developer.salesforce.com/docs).
+- API documentation is not provided with the collection. Please refer to the [official documentation](https://https://developer.commercecloud.com/s/commerce-api).
 
 
 ## Issues and Questions
 
-Report issues and ask questions [here](https://github.com/forcedotcom/postman-salesforce-apis/issues).
+Report issues and ask questions [here](https://github.com/forcedotcom/postman-commercecloud-apis/issues).
 
 
 ## Installation
