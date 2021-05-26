@@ -6,30 +6,18 @@ A [Postman](https://www.postman.com) collection of 230+ requests for the followi
    <tr>
       <td>
          <ul>
-            <li>Async Query</li>
-            <li>Auth</li>
-            <li>Bulk (V1 & V2)</li>
-            <li>Chatter (Connect)</li>
-            <li>Composite</li>
+            <li>Shopper Login and API Access Service (SLAS)</li>
          </ul>
       </td>
       <td>
          <ul>
-            <li>CPQ</li>
-            <li>Metadata</li>
-            <li>Rest</li>
-            <li>Tooling</li>
-            <li>UI</li>
          </ul>
       </td>
    </tr>
 </table>
 
-![Postman screenshot](doc-gfx/app/limits-status-200.png)
+![Postman screenshot](doc-gfx/app/SLAS_overview.png)
 
-Learn more about the Collection:
-- 🎥 [Webinar](https://trailhead.salesforce.com/live/videos/a2r3k000001WFhk/exploring-the-salesforce-apis-with-postman/)
-- 📖 [Blog post](https://developer.salesforce.com/blogs/2020/03/explore-the-salesforce-apis-with-a-postman-collection.html)
 
 **⚠️ Disclaimers:**
 - This collection is provided as-is. It's not officially supported by Salesforce or covered by SLAs.
