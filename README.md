@@ -1,6 +1,6 @@
 # Salesforce Commerce Cloud APIs for Postman
 
-A [Postman](https://www.postman.com) collection of 230+ requests for the following Salesforce APIs:
+A [Postman](https://www.postman.com) collection of requests for the following Salesforce Commerce Cloud APIs:
 
 <table>
    <tr>
