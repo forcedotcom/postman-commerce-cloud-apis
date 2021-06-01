@@ -70,7 +70,7 @@ For SLAS Authentication happens with the above mentioned public and private code
 
 At this point, if your environment is correctly set up, you should see a `200 OK` status. This means that you have successfully authenticated with Salesforce and that you can now use the other collection’s requests.
 
-![Authenticate screenshot](doc-gfx/app/SLAS_Private_Client_200.png)
+![Authenticate screenshot](doc-gfx/app/slas_private_client_200.png)
 
 See [additional documentation](README.md#additional-documentation) for more information on how to keep the collection up to date and work with multiple Salesforce orgs.
 
