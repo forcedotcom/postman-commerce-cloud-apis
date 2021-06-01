@@ -43,9 +43,7 @@ Follow these guidelines when contributing to the collection:
 - Use the API documented names.
 - Add description from the documentation in the Postman descriptions.
 - Provide the description from the documentation for each GET parameters.
-- API calls should work and be parametrized using environment variables:
-  - Authentication API endpoints must use `{{url}}{{site}}` as host.
-  - Other API endpoints must use `{{_endpoint}}` as host.
+- API calls should work and be parametrized using environment variables: `{{host}}{{base_uri}}{{tenant_id}}`
 - Optional: provide examples.
 
 

@@ -42,5 +42,4 @@ Regardless of whether you choose the desktop app or the web UI, you can use all 
 ## Additional Documentation
 
 - [Keeping the collection up to date](updating.md)
-- [Working with environments to connect to multiple orgs](working-with-environments.md)
 - [Contributing](contributing.md)
