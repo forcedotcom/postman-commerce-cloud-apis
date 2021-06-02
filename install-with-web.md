@@ -29,19 +29,19 @@ Consider this installation option if you can’t install the Postman desktop app
 
 Additionally it is useful to create an environment with the following variables in before running any test.
 
-```
-host - The host to the SLAS service. Should include https://
-tenant_id - The tenand id that was created when SLAS and ECOM was set up.
-base_uri - The base URI to SLAS. ex. /api/v1/organizations/
-ocapi_uri - The uri to ECOM to access the OCAPI APIs. Should include https://
-ocapi_site - The ECOM Site used in OCAPI calls. Ex. SiteGenesis or RefArch
-ecom_customer_id - A customer (shopper) user from ECOM
-ecom_customer_pw - A customer (shopper) user password from ECOM
-private_client_id - The private client when client was created in SLAS.
-private_client_secret - The private client secret when client was created in SLAS.
-public_client_id - The public client when client was created in SLAS.
-redirect_url - One of the redirect_uris that are part of the SLAS client.
-```
+| Variable | Description |
+| --- | --- |
+| `host` | The host to the SLAS service. Should include the `https://` protocol. |
+| `tenant_id` | The tenant id that was created when SLAS and ECOM was set up. |
+| `base_uri` | The base URI to SLAS. ex. `/api/v1/organizations/` |
+| `ocapi_uri` | The URI to ECOM to access the OCAPI APIs. Should include the `https://` protocol. |
+| `ocapi_site` | The ECOM Site used in OCAPI calls. Ex. `SiteGenesis` or `RefArch` |
+| `ecom_customer_id` | A customer (shopper) user from ECOM. |
+| `ecom_customer_pw` | A customer (shopper) user password from ECOM. |
+| `private_client_id` | The private client when client was created in SLAS. |
+| `private_client_secret` | The private client secret when client was created in SLAS. |
+| `public_client_id` | The public client when client was created in SLAS. |
+| `redirect_url` | One of the `redirect_uris` that are part of the SLAS client. |
 
 ## Authentication
 For SLAS Authentication happens with the above mentioned public and private code verifiers and challenges.
