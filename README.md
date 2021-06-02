@@ -34,7 +34,7 @@ Report issues and ask questions [here](https://github.com/forcedotcom/postman-co
 You can use the **Postman desktop app** or the **Postman web UI** to connect to Salesforce with the Salesforce APIs collection:
 
 - [Install using the Postman desktop app](install-with-app.md) (recommended)
-- [Install using the Postman web UI](install-with-web.md) (longer setup, requires CORS configuration in Salesforce org)
+- [Install using the Postman web UI](install-with-web.md)
 
 Regardless of whether you choose the desktop app or the web UI, you can use all of the collection’s requests and your changes are synchronized between the two environments so you can easily switch between them at any time.
 
